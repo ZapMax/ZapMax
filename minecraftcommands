@@ -1,0 +1,5 @@
+Minecraft commands:
+/kill @a, @e, @s, @r.
+/summon (enter mob name here)
+/setspawnpoint
+/tp (name of entity) (Coordinates)
